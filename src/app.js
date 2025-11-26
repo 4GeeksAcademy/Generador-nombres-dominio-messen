@@ -20,6 +20,7 @@ for (let i = 0; i < pronoun.length; i++) {
           console.log(pronoun[i]+adj[j]+noun[k].slice(0, -3)+'.'+dom[l]);    
         }
 
+        //esto era todo lo que tenia, y la linea 20 fue lo que quedo arreglado con el grupo en clase
         //console.log(pronoun[i]+adj[j]+noun[k]+dom[l]);
        /* let dominios = pronoun[i] + adj[j] + noun[k];
         let dominio1 = dominios.slice(0, -2);
